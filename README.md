@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi, I'm Federico  
 
-<!--
-**federicolepera/federicolepera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Cloud Native Engineer+
+📍 Bologna, Italy 
+🔗 [LinkedIn](https://www.linkedin.com/in/federico-le-pera-819259221/)
 
-Here are some ideas to get you started:
+### 👨‍💻 About Me  
+I’m a **Cloud Native Engineer** with with 3 years of experience in IT.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I started my career as a **Linux System Administrator** and later specialized in **Kubernetes** and **Red Hat OpenShift**. I have a strong focus on automating processes using tools like **Ansible** and **Terraform**.
+In my free time, I enjoy programming and have intermediate knowledge of C, Java, and Python.
+
+### 🔧 Core Skills  
+- **Cloud-Native Expertise**: K3s, K8s vanilla, Openshift (Installation, Administration and GitOps approch)  
+- **Automation**: Ansible
+
+### 🌟 Let’s Connect!  
+Feel free to reach out!  
